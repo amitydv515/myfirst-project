@@ -1,0 +1,22 @@
+.navbar{
+    display: flex ;
+    background-color: aquamarine;
+    width:fit-content;
+    height: 50px;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 90px;   
+    padding: 17px;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+Nav div {
+    
+}
